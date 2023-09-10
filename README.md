@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Henrique Sampaio and I'm a Software Engineering student based in Toronto. With a strong passion for backend development and a versatile skill set that encompasses JavaScript, Java, Python, HTML, and CSS, I'm on a journey to bring innovative and efficient solutions to life through code.
+My name is Henrique Sampaio and I'm a Software Engineering student based in Toronto. With a strong passion for backend development and a versatile skill set that encompasses JavaScript, Java, Python, HTML, and CSS. I'm on a journey to bring innovative and efficient solutions to life through code.
